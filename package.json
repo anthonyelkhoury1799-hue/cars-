@@ -1,0 +1,9 @@
+{
+  "name": "car-products-consultant-lebanon",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Lebanon-focused automotive marketplace MVP",
+  "main": "server.js",
+  "scripts": {"start": "node server.js", "check": "node --check server.js && node --check public/app.js"},
+  "engines": {"node": ">=18"}
+}
